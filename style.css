@@ -22,7 +22,7 @@ h1{
     left:10px;
     top:60;
     line-height: 0px;
-    background-image: url(images/logo4.png);
+    background-image: url(logo4.png);
     background-repeat: no-repeat;
     background-position: center;
     width: 210px;
@@ -116,7 +116,7 @@ h1{
     left:30px;
     top:80;
     line-height: 0px;
-    background-image: url(images/logo4.png);
+    background-image: url(logo4.png);
     background-repeat: no-repeat;
     background-position: center;
     width: 210px;
@@ -143,7 +143,7 @@ header a:hover{
     background-color:antiquewhite;
     color:white;
     height: 100vh;
-    background-image: url("images/flowers.png");
+    background-image: url("flowers.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -191,7 +191,7 @@ footer{
 }
 .promotion{
     display: flex; 
-    background-image: url(images/FLOWER.PNG);
+    background-image: url(FLOWER.PNG);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
